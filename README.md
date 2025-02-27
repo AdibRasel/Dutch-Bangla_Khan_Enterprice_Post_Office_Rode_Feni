@@ -1,25 +1,13 @@
-# Brac Bank Sompara Bazar
+# Dutch Bangla Khan Enterprise Post Office Rode Feni
 
-[Live Demo](https://adibrasel.github.io/BracBankSompara/)
+[Live Demo](https://adibrasel.github.io/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/)
 
 ## Overview
-The **BankAsiaShahapur** project is a comprehensive solution for managing and calculating various banking-related tasks. This application offers features such as QR code generation for bank account details, as well as calculations for remittance, DPS, FDR, and loans. It is designed to be user-friendly and efficient, making complex banking operations simpler.
+The **Dutch Bangla Khan Enterprise Post Office Rode Feni** project is a complete banking management solution designed to simplify a range of banking tasks. This application allows users to generate QR codes for bank account details and easily perform calculations for remittance, DPS (Deposit Pension Scheme), FDR (Fixed Deposit Receipt), and loans. The goal is to provide a user-friendly interface for performing common banking operations seamlessly.
 
 ## Features
-- **Bank Account QR Code Generation**: Generate printable QR codes for bank account details quickly and easily.
-- **Remittance Calculation**: Perform accurate remittance calculations based on specific inputs.
-- **DPS Calculation**: Simplified DPS (Deposit Pension Scheme) calculations for users.
-- **FDR Calculation**: Compute FDR (Fixed Deposit Receipt) values seamlessly.
-- **Loan Calculation**: Efficiently calculate loan repayments and associated details.
-
-## Usage
-1. Access the application via the [live demo link](https://adibrasel.github.io/BracBankSompara/).
-2. Explore the features:
-   - Generate QR codes for bank account details.
-   - Perform calculations for remittance, DPS, FDR, and loans.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-"# Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni" 
-"# Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni" 
-"# Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni" 
+- **Bank Account QR Code Generation**: Effortlessly generate printable QR codes that include bank account details for easy sharing and transactions.
+- **Remittance Calculation**: Calculate remittance amounts accurately based on user inputs and specifications.
+- **DPS Calculation**: Simplified calculations for the Deposit Pension Scheme, helping users to estimate their DPS returns.
+- **FDR Calculation**: Compute Fixed Deposit Receipt values easily, helping users to understand their fixed deposit benefits.
+- **Loan Calculation**: Calculate loan repayments, principal amounts, and interest details efficiently.
