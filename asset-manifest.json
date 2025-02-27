@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/css/main.5411400d.css",
-    "main.js": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/js/main.3cd4b45d.js",
+    "main.js": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/js/main.5449a2eb.js",
     "static/media/FingerPrintImage.png": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/media/FingerPrintImage.1893be326d2c9453cc85.png",
     "static/media/ImoIcon.png": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/media/ImoIcon.06910d8fc74ef2da0270.png",
     "static/media/EmailIcon.png": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/media/EmailIcon.9800434dcd844b3dca3f.png",
     "static/media/WhatsppIcon.png": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
     "index.html": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/index.html",
     "main.5411400d.css.map": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/css/main.5411400d.css.map",
-    "main.3cd4b45d.js.map": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/js/main.3cd4b45d.js.map"
+    "main.5449a2eb.js.map": "/Dutch-Bangla_Khan_Enterprice_Post_Office_Rode_Feni/static/js/main.5449a2eb.js.map"
   },
   "entrypoints": [
     "static/css/main.5411400d.css",
-    "static/js/main.3cd4b45d.js"
+    "static/js/main.5449a2eb.js"
   ]
 }
